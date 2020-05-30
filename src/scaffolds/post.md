@@ -1,5 +1,7 @@
 ---
 title: {{ title }}
 date: {{ date }}
-tags:
+metatags: some, tag
+description: lorem ipsum
+cover: "blog-images/some-images.jpg"
 ---

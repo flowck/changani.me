@@ -11,8 +11,8 @@ timezone: ""
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://changani.me/blog
-# url: http://localhost:4000/blog
+# url: https://changani.me/blog
+url: http://localhost:4000/blog
 root: /blog
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -41,7 +41,7 @@ filename_case: 0
 render_drafts: false
 post_asset_folder: false
 relative_link: false
-future: true
+future: false
 highlight:
   enable: false
   line_number: true
