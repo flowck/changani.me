@@ -1,0 +1,27 @@
+@import "partials/reset";
+@import "partials/mediaqueries";
+@import "partials/grid";
+@import "partials/colors.scss";
+@import "partials/fonts.scss";
+
+html {
+  height: 100%;
+}
+
+body {
+  min-height: 100%;
+  color: $color-white;
+  font-weight: normal;
+  font-family: $font-regular;
+  background-color: $background-color;
+}
+
+a {
+  color: $color-white;
+  text-decoration: none;
+  transition: color 0.5s;
+}
+
+p {
+  line-height: 1.5;
+}

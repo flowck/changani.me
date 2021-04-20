@@ -1,0 +1,30 @@
+[
+  {
+    "name": "archive",
+    "path": "/archive",
+    "component": "/Users/personal/Documents/lab/changani.me/v3/pages/archive.vue",
+    "chunkName": "pages/archive",
+    "_name": "_6a529495"
+  },
+  {
+    "name": "blog",
+    "path": "/blog",
+    "component": "/Users/personal/Documents/lab/changani.me/v3/pages/blog.vue",
+    "chunkName": "pages/blog",
+    "_name": "_d0689e42"
+  },
+  {
+    "name": "post",
+    "path": "/post",
+    "component": "/Users/personal/Documents/lab/changani.me/v3/pages/post.vue",
+    "chunkName": "pages/post",
+    "_name": "_274d2a46"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/personal/Documents/lab/changani.me/v3/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_0c20b136"
+  }
+]
